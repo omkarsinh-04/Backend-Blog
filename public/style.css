@@ -1,0 +1,23 @@
+body {
+    background-color: maroon;
+}
+
+h1 {
+    color: rgb(249, 215, 163);
+}
+
+.blog {
+    background-color: blanchedalmond;
+}
+
+.user {
+    font-style: italic;
+}
+
+body div a {
+    color: maroon;
+}
+
+body a {
+    color: white;
+}
